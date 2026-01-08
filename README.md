@@ -1,16 +1,78 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm **Dhruv Chudasma** 👋  
+I'm a final year B.Tech student in Computer Engineering at Parul University, passionate about backend development, building scalable applications, and solving challenging problems through code.
 
-<!--
-**DhruvChudasma91/DhruvChudasma91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**
+- 💻 Backend-focused developer with strong skills in **Java & Spring Boot**
+- 🔐 Experienced in building secure authentication and data-driven systems
+- 📊 Solved **600+ DSA problems** across platforms like LeetCode, CodeChef & Codolio
+- 🧠 Always learning and improving problem-solving & system design skills
+- 🤝 Open to collaborating on meaningful real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/dhruv-chudasma91/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DhruvChudasma91)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvchudasma10@gmail.com)
+
+---
+
+# 💻 Tech Stack:
+
+### 🧠 Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### ⚙️ Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring JPA](https://img.shields.io/badge/spring%20jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Task Management System
+- Full-stack web app with Spring Boot backend & MySQL database
+- Supports task creation, reordering, completion tracking (1000+ tasks)
+- <200ms average API response time
+
+### 🔹 User Registration & Login System
+- Secure authentication system handling 500+ users
+- Implemented validation to reduce invalid submissions by ~40%
+
+### 🔹 CRUD Application with Spring JPA
+- Manages 10,000+ records efficiently
+- Optimized DB queries and validation improved data consistency by ~35%
+
+---
+
+## 🏆 Achievements
+- 🟢 **LeetCode**: Rating 1535 | 300+ problems solved
+- ⭐ **CodeChef**: 1 Star | Max Rating 1105
+- 🧩 **Codolio**: 600+ problems solved overall
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&theme=dark&layout=compact)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
