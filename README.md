@@ -43,23 +43,6 @@ I'm a final year B.Tech student in Computer Engineering at Parul University, pas
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Task Management System
-- Full-stack web app with Spring Boot backend & MySQL database
-- Supports task creation, reordering, completion tracking (1000+ tasks)
-- <200ms average API response time
-
-### 🔹 User Registration & Login System
-- Secure authentication system handling 500+ users
-- Implemented validation to reduce invalid submissions by ~40%
-
-### 🔹 CRUD Application with Spring JPA
-- Manages 10,000+ records efficiently
-- Optimized DB queries and validation improved data consistency by ~35%
-
----
-
 ## 🏆 Achievements
 - 🟢 **LeetCode**: Rating 1535 | 300+ problems solved
 - ⭐ **CodeChef**: 1 Star | Max Rating 1105
