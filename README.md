@@ -58,4 +58,5 @@ I'm a final year B.Tech student in Computer Engineering at Parul University, pas
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&author=false)
+
