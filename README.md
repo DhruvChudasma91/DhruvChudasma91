@@ -55,23 +55,6 @@ I'm a final year B.Tech student in Computer Engineering at Parul University, pas
 ![](https://nirzak-streak-stats.vercel.app/?user=DhruvChudasma91&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvChudasma91&theme=dark&layout=compact)
 
-<br/>
-
-<a href="https://github.com/DhruvChudasma91">
-  <img alt="Dhruv Chudasma Github Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=DhruvChudasma91&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/DhruvChudasma91">
-  <img alt="Dhruv Chudasma Top Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvChudasma91&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-
 ## 📈 Graph
 
 <p align="center">
