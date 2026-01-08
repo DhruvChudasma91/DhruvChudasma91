@@ -5,7 +5,7 @@ I'm a final year B.Tech student in Computer Engineering at Parul University, pas
 🚀 **About Me**
 - 💻 Backend-focused developer with strong skills in **Java & Spring Boot**
 - 🔐 Experienced in building secure authentication and data-driven systems
-- 📊 Solved **600+ DSA problems** across platforms like LeetCode, CodeChef & Codolio
+- 📊 Solved **600+ DSA problems** across platforms like LeetCode, CodeChef & Geeksforgeeks
 - 🧠 Always learning and improving problem-solving & system design skills
 - 🤝 Open to collaborating on meaningful real-world projects
 
