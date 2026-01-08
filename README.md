@@ -51,9 +51,9 @@ I'm a final year B.Tech student in Computer Engineering at Parul University, pas
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=DhruvChudasma91&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=DhruvChudasma91&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvChudasma91&theme=dark&layout=compact)
 
 ---
 
